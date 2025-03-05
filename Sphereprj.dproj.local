@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/02/19 13:03:02.000.120,C:\Users\Quickemu\Documents\Embarcadero\Studio\Projects\My_Sphere\Sphereprj.dproj=C:\Users\Quickemu\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/02/19 13:03:16.000.795,=C:\Users\Quickemu\Documents\Embarcadero\Studio\Projects\My_Sphere\Unit1.pas</Transaction>
+    <Transaction>2025/02/19 13:03:59.000.185,C:\Users\Quickemu\Documents\Embarcadero\Studio\Projects\My_Sphere\SphereU.pas=C:\Users\Quickemu\Documents\Embarcadero\Studio\Projects\My_Sphere\Unit1.pas</Transaction>
+    <Transaction>2025/02/23 17:47:50.000.111,=C:\Users\Quickemu\Documents\Embarcadero\Studio\Projects\My_Sphere\Unit1.pas</Transaction>
+    <Transaction>2025/02/23 17:48:06.000.113,C:\Users\Quickemu\Documents\Embarcadero\Studio\Projects\My_Sphere\Unit1.pas=C:\Users\Quickemu\Documents\Embarcadero\Studio\Projects\My_Sphere\BallU.pas</Transaction>
+  </Transactions>
+</BorlandProject>
